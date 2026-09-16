@@ -1,0 +1,6 @@
+{
+  "name": "3D Print Order & Queue Tracker",
+  "description": "Mobile-friendly 3D printing business order, queue, and profit tracker for school print businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
